@@ -1,0 +1,5 @@
+C:\Users\hamma\source\repos\Entity\bin\Debug\Entity.dll
+C:\Users\hamma\source\repos\Entity\bin\Debug\Entity.pdb
+C:\Users\hamma\source\repos\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\hamma\source\repos\Entity\obj\Debug\Entity.dll
+C:\Users\hamma\source\repos\Entity\obj\Debug\Entity.pdb

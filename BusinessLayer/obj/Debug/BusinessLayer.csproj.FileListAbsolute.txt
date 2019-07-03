@@ -1,0 +1,11 @@
+C:\Users\hamma\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hamma\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\Entity.dll
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hamma\source\repos\BusinessLayer\bin\Debug\Entity.pdb
+C:\Users\hamma\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hamma\source\repos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hamma\source\repos\BusinessLayer\obj\Debug\BusinessLayer.pdb
